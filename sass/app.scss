@@ -85,13 +85,13 @@ header {
     border-top-color: $red;
   }
   .card:nth-child(3) {
-    border-top-color: $orange;
+    border-top-color: $blue;
     @include laptop() {
       transform: translateY(50%);
     }
   }
   .card:nth-child(4) {
-    border-top-color: $blue;
+    border-top-color: $orange;
   }
   .card {
     background-color: white;

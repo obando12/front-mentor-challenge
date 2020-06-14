@@ -95,7 +95,7 @@ header p {
 }
 
 .info .card:nth-child(3) {
-  border-top-color: #fcaf4a;
+  border-top-color: #549ef2;
 }
 
 @media (min-width: 1024px) {
@@ -106,7 +106,7 @@ header p {
 }
 
 .info .card:nth-child(4) {
-  border-top-color: #549ef2;
+  border-top-color: #fcaf4a;
 }
 
 .info .card {
